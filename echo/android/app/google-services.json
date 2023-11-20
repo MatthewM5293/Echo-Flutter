@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583062296155",
+    "project_id": "echofirebase-423a8",
+    "storage_bucket": "echofirebase-423a8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583062296155:android:a7227057c87eb5c764917e",
+        "android_client_info": {
+          "package_name": "Echo.Mobile"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC318VeaD6sESiEoywwBBWbGC6nixvchcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
